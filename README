@@ -2,7 +2,7 @@ README
 
 Spoke calculator for bicycle wheels written in python 2.7
 
-!! Version 0.0.1 only supports front wheels and without disc brakes (symmetric wheels) !!
+!! Version 0.0.1 only supports front wheels without disc brakes (symmetric wheels) !!
 
 All measures necessary to calculate the spoke length are
 given to spoke_calculator.py as command-line options.
